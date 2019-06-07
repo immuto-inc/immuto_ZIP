@@ -1,0 +1,38 @@
+{
+  "name": "izip",
+  "version": "0.1.0",
+  "description": "An Immuto integration for ZIP files that enables blockchain-based data verification.",
+  "main": "izip.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/immuto-inc/immuto_ZIP.git"
+  },
+  "keywords": [
+    "data",
+    "integrity",
+    "immuto-backend",
+    "immuto",
+    "zip",
+    "files",
+    "archives",
+    "blockchain",
+    "verification"
+  ],
+  "author": "Sebastian Coates",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/immuto-inc/immuto_ZIP/issues"
+  },
+  "bin": {
+    "izip": "./cli.js"
+  },
+  "homepage": "https://github.com/immuto-inc/immuto_ZIP#readme",
+  "dependencies": {
+    "adm-zip": "^0.4.13",
+    "immuto-backend": "^0.1.5",
+    "walk": "^2.3.14"
+  }
+}
