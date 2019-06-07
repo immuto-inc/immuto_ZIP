@@ -77,7 +77,8 @@ exports.create_zip = (inputPath, outputPath, desc) => {
                         zip.writeZip(outputPath)
                         resolve()
                     }).catch((err) => {
-                        reject(err)
+                        console.error(err)
+                        reject("Error creating Immuto record. Please ensure your account has credits and an active subscription.")
                     })
                 });
             } else {
