@@ -6,7 +6,8 @@
 ## Usage
 You may simply zip/unzip files by providing input and output directories. <br>
 Creating ZIP files requires an Immuto account, but verification does not. <br> 
-We recommend you register development account for testing.<a href="(https://dev.immuto.io/register)">(https://dev.immuto.io/register)</a><br>
+We recommend you register a development account for testing.<br>
+<a href="(https://dev.immuto.io/register)">(https://dev.immuto.io/register)</a><br>
 
 ```
 npm install -g izip
