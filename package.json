@@ -32,7 +32,7 @@
   "homepage": "https://github.com/immuto-inc/immuto_ZIP#readme",
   "dependencies": {
     "adm-zip": "^0.4.13",
-    "immuto-backend": "^0.1.5",
+    "immuto-backend": "^0.1.6",
     "walk": "^2.3.14"
   }
 }
