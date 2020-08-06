@@ -31,8 +31,8 @@
   },
   "homepage": "https://github.com/immuto-inc/immuto_ZIP#readme",
   "dependencies": {
-    "adm-zip": "^0.4.13",
-    "immuto-backend": "^0.1.6",
+    "adm-zip": "^0.4.16",
+    "immuto-backend": "^0.1.9",
     "walk": "^2.3.14"
   }
 }
